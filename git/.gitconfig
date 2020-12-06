@@ -1,0 +1,5 @@
+# This is Git's per-user configuration file.
+[user]
+# Please adapt and uncomment the following lines:
+	name = Miguel Ángel Fernández Carrillo
+	email = miguelangel.fernandez.practicas@telefonica.com
